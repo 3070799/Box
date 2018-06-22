@@ -1,4 +1,4 @@
 public interface BoxInt {
 
-    int findVolume ();
+    int findVolume();
 }
